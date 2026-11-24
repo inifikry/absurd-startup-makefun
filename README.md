@@ -1,6 +1,6 @@
 [![make.fun · u-ricoxyz-absurd-micro-startup-pitch-off-12e33571](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
-[![make.fun · rank](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/inifikry/absurd-pitch-makefun/rank.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
-[![make.fun · reward](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/inifikry/absurd-pitch-makefun/reward.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
+[![make.fun · rank](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/inifikry/absurd-startup-makefun/rank.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
+[![make.fun · reward](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/inifikry/absurd-startup-makefun/reward.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
 
 # Absurd Micro-Startup Pitch-Off
 
